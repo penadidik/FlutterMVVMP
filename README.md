@@ -13,7 +13,7 @@ This project is a starting point for a Flutter application with MVVMP Architectu
 
 This Sample Apps develop by:
 
-###Didik Maryono
+### Didik Maryono
 
 - Full Stack Developer Indonesia
 - Co-Founder and CTO [Dentist Care Indonesia](https://dentistcare.id/)
